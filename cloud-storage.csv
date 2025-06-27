@@ -1,0 +1,81 @@
+Provider,Domain
+Amazon S3,s3.amazonaws.com
+Google Cloud Storage,cloud.google.com/storage
+Microsoft Azure Blob Storage,azure.microsoft.com/en-us/products/storage/blobs
+Dropbox,dropbox.com
+Google Drive,drive.google.com
+OneDrive,onedrive.live.com
+Box,app.box.com
+iCloud Drive,icloud.com/iclouddrive
+Sync.com,sync.com
+pCloud,pcloud.com
+MEGA,mega.nz
+Nextcloud,nextcloud.com
+DigitalOcean Spaces,digitalocean.com/products/spaces
+Backblaze B2 Cloud Storage,backblaze.com/b2/cloud-storage.html
+IDrive,idrive.com
+MediaFire,mediafire.com
+Filen.io,filen.io
+Koofr,koofr.eu
+IceDrive,icedrive.net
+Wasabi Cloud Storage,wasabi.com
+Alibaba Cloud Object Storage Service (OSS),alibabacloud.com/product/oss
+Tencent Cloud Object Storage (COS),intl.cloud.tencent.com/product/cos
+IBM Cloud Object Storage,cloud.ibm.com/object-storage
+Oracle Cloud Infrastructure Object Storage,oracle.com/cloud/storage/object-storage.html
+OVHcloud Object Storage,ovhcloud.com/en/public-cloud/object-storage/
+Scaleway Object Storage,scaleway.com/en/object-storage/
+MinIO,min.io
+ownCloud,owncloud.com
+Tresorit,tresorit.com
+Proton Drive,proton.me/drive
+Egnyte,egnyte.com
+Resilio Sync,resilio.com/sync/
+Seafile,seafile.com
+SpiderOak One,spideroak.com
+Syncany,syncany.org
+Ceph,ceph.io
+SwiftStack,swiftstack.com
+Cloudian HyperStore,cloudian.com
+NetApp StorageGRID,netapp.com/us/products/cloud-storage/storagegrid
+Internxt,internxt.com
+Filebase,filebase.com
+Storj,storj.io
+Arcweave,arcweave.io
+Freenas/TrueNAS,truenas.com
+Percona,percona.com
+Rubrik,rubrik.com
+Veeam,veeam.com
+Zetta,zetta.net
+Barracuda,barracuda.com
+Commvault,commvault.com
+Druva,druva.com
+Quantum,quantum.com
+Cohesity,cohesity.com
+Igloo Software,igloosoftware.com
+Boxcryptor,boxcryptor.com
+Encyro,encyro.com
+ShareFile (Citrix),sharefile.com
+Egnyte Connect,egnyte.com
+Accellion,accellion.com
+Thru Inc.,thruinc.com
+GlobalSCAPE,globalscape.com
+Wimi,wimi.pro
+WorkFolder,workfolder.com
+Centrify,centrify.com
+Bitglass,bitglass.com
+Ctera Networks,ctera.com
+Panzura,panzura.com
+Nasuni,nasuni.com
+Elastifile (Google Cloud),cloud.google.com/elastifile
+Qumulo,qumulo.com
+WekaIO,weka.io
+CloudFS (NetApp),cloud.netapp.com/cloud-fs
+AWS FSx,aws.amazon.com/fsx
+Azure NetApp Files,azure.microsoft.com/en-us/products/storage/netapp-files
+Google Cloud Filestore,cloud.google.com/filestore
+OpenIO,openio.io
+GlusterFS,gluster.org
+CephFS,ceph.io/cephfs/
+HDFS (Hadoop Distributed File System),hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html
+Lustre,lustre.org
